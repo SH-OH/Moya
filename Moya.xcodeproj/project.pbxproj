@@ -971,6 +971,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/Carthage/Build/",
 					"$(SRCROOT)/Carthage/Build/iOS",
+					../../Build/iOS/,
 				);
 				"FRAMEWORK_SEARCH_PATHS[sdk=macosx*]" = (
 					"$(inherited)",
@@ -1025,6 +1026,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/Carthage/Build/",
 					"$(SRCROOT)/Carthage/Build/iOS",
+					../../Build/iOS/,
 				);
 				"FRAMEWORK_SEARCH_PATHS[sdk=macosx*]" = (
 					"$(inherited)",
@@ -1181,6 +1183,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/Carthage/Build/",
 					"$(SRCROOT)/Carthage/Build/iOS",
+					../../Build/iOS/,
 				);
 				"FRAMEWORK_SEARCH_PATHS[sdk=macosx*]" = (
 					"$(inherited)",
@@ -1513,6 +1516,7 @@
 					"$(inherited)",
 					"$(SRCROOT)/Carthage/Build/",
 					"$(SRCROOT)/Carthage/Build/iOS",
+					../../Build/iOS/,
 				);
 				"FRAMEWORK_SEARCH_PATHS[sdk=macosx*]" = (
 					"$(inherited)",
